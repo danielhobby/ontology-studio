@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "": "http://www.semanticweb.org/neelabalan/ontologies/2024/2/pizza_ontology#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "xml": "http://www.w3.org/XML/1998/namespace",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+  },
+  "@graph": [
+    {
+      "@id": "urn:instance:aaa-mukc2c6b",
+      "@type": "http://www.semanticweb.org/neelabalan/ontologies/2024/2/PizzaOntology#Pizza",
+      "rdfs:label": "Aaa"
+    },
+    {
+      "@id": "urn:instance:bbb-mukc2g84",
+      "@type": "http://www.semanticweb.org/neelabalan/ontologies/2024/2/PizzaOntology#AmericanaPizza",
+      "rdfs:label": "bbb"
+    },
+    {
+      "@id": "urn:instance:ssdd-mukc2mo2",
+      "@type": "http://www.semanticweb.org/neelabalan/ontologies/2024/2/PizzaOntology#SohoPizza",
+      "rdfs:label": "ssdd"
+    }
+  ]
+}
